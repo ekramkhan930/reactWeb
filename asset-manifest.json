@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/reactWeb/static/css/main.f47ff410.css",
+    "main.js": "/reactWeb/static/js/main.f8640a85.js",
+    "static/media/welcome_image.jpg": "/reactWeb/static/media/welcome_image.1408f6bec427780d5155.jpg",
+    "static/media/about.jpg": "/reactWeb/static/media/about.b4d2d4556605c0810fc6.jpg",
+    "static/media/service_1.jpg": "/reactWeb/static/media/service_1.77a0d4c440eacc9ed90d.jpg",
+    "static/media/service_3.jpg": "/reactWeb/static/media/service_3.ccd76c32abcb47e52b8f.jpg",
+    "static/media/service_2.jpg": "/reactWeb/static/media/service_2.90d216df3162841d8d04.jpg",
+    "index.html": "/reactWeb/index.html",
+    "main.f47ff410.css.map": "/reactWeb/static/css/main.f47ff410.css.map",
+    "main.f8640a85.js.map": "/reactWeb/static/js/main.f8640a85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f47ff410.css",
+    "static/js/main.f8640a85.js"
+  ]
+}
